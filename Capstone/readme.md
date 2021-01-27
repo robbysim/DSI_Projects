@@ -22,7 +22,7 @@ Digital financial services is expected to **grow over threefolds to USD 38 billi
 - unbanked (without access to a basic bank account) or 
 - under-banked (have no access to credit cards or long-term savings products). 
 
-<img src="./images/image_1.png" width=300 align = 'center'>
+<img src="./images/image_1.PNG" width=300 align = 'center'>
 
 Looking at just the unbanked portion in the 3 largest countries in Southeast Asia (Indonesia, Philippines, and Vietnam), we are looking at an **immediate addressable market size of 270 million people**.  <br>
 
